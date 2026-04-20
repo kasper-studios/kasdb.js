@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "msgpack-lite": "^0.1.26"
+  },
+  "name": "kasperdb",
+  "version": "1.0.2",
+  "description": "binary database, easy to use",
+  "main": "kasperdb.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kasper-studios/kasperdb.js.git"
+  },
+  "keywords": [
+    "db",
+    "database",
+    "kasperdb"
+  ],
+  "author": "kasperenok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kasper-studios/kasperdb.js/issues"
+  },
+  "homepage": "https://github.com/kasper-studios/kasperdb.js#readme"
+}
